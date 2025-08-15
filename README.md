@@ -1,10 +1,9 @@
 # Multi Facial Skin Concern Detection Model Using Advanced ResNet50 U-Net Model
 
-# Project carried out for Yuty .Ltd 
 
 ## Project Overview
 
-This project delivers an **innovative AI-driven solution for the precise detection and segmentation of nine distinct facial skin imperfections directly from user selfies**. Developed in collaboration with **Yuty**, a visionary beauty enterprise, this system addresses a critical need for **personalization in the rapidly expanding beauty industry**, which is projected to reach over $101 billion in revenue by 2027.
+This project delivers an **innovative AI-driven solution for the precise detection and segmentation of nine distinct facial skin imperfections directly from user selfies**. Developed in collaboration with **Yuty Ltd.**, a visionary beauty enterprise, this system addresses a critical need for **personalization in the rapidly expanding beauty industry**, which is projected to reach over $101 billion in revenue by 2027.
 
 Yuty's mission is to alleviate the "paradox of choice" that consumers face amidst an overwhelming array of skincare products by offering **highly tailored and personalized beauty experiences** through advanced machine learning. Our solution empowers Yuty to deliver a suite of enhanced services, including personalized skincare advice, virtual product try-ons, remote dermatology consultations, and comprehensive skincare progress tracking. This strategic initiative is designed to significantly elevate customer experience, satisfaction, and loyalty, positioning Yuty at the **forefront of the competitive beauty industry landscape**.
 
