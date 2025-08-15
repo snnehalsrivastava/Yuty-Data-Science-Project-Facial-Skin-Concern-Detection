@@ -1,6 +1,6 @@
 # Multi Facial Skin Concern Detection Model Using Advanced ResNet50 U-Net Model
 
-# Project carried out for YUTY.LTD 
+# Project carried out for Yuty .Ltd 
 
 ## Project Overview
 
